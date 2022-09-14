@@ -19,3 +19,6 @@ def greet(name="default name"):
 greet("Mosh")
 
 
+print("git")
+
+
