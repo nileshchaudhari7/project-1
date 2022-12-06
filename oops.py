@@ -3,3 +3,6 @@ for i in range(9):
 
 for j in range(4):
     print(j)
+
+for k in range(3):
+    print(k)
